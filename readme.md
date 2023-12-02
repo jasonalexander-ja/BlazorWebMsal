@@ -24,5 +24,3 @@ We just need to register a web app in Azure AD using the allowed redirect user p
 - In the project CLI, run `dotnet user-secrets set "AzureAd:ClientSecret" "[your client secret]"`
 
 Run with either `F5` in Visual Studio/Rider or `dotnet run` in the CLI. 
-
-]
